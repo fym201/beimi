@@ -93,8 +93,6 @@
       "width": 1280,
       "height": 720
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -151,8 +149,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -203,8 +199,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -255,8 +249,6 @@
       "width": 1280,
       "height": 720
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -344,8 +336,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -396,8 +386,6 @@
       "width": 999,
       "height": 24
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -476,8 +464,6 @@
       "width": 330,
       "height": 53
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -556,8 +542,6 @@
       "width": 48,
       "height": 42
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -636,8 +620,6 @@
       "width": 441,
       "height": 168
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -719,8 +701,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -774,8 +754,6 @@
       "width": 388,
       "height": 128
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -917,8 +895,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -969,8 +945,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -1033,8 +1007,6 @@
       "width": 388,
       "height": 128
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {

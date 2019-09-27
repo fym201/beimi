@@ -57,8 +57,6 @@
       "width": 160,
       "height": 80
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -111,8 +109,6 @@
       "width": 46,
       "height": 72
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -204,8 +200,6 @@
       "width": 46,
       "height": 72
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -297,8 +291,6 @@
       "width": 46,
       "height": 72
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -390,8 +382,6 @@
       "width": 0,
       "height": 0
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -448,8 +438,6 @@
       "width": 46,
       "height": 72
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 1,
     "_scaleY": 1,
     "_position": {
@@ -502,8 +490,6 @@
       "width": 79,
       "height": 111
     },
-    "_rotationX": 0,
-    "_rotationY": 0,
     "_scaleX": 0.5,
     "_scaleY": 0.5,
     "_position": {

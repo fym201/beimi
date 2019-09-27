@@ -15,8 +15,9 @@ var HTTP = cc.Class({
         // ...
     },
     statics: {
-        baseURL:"http://192.168.1.155",
-        wsURL : "ws://192.168.1.155:9081",
+        // var wsUrl = 'ws://192.168.1.250:9876'
+        baseURL:"http://localhost",
+        wsURL : "ws://localhost:9081",
         authorization: null,
         httpGet: function (url , success , error , object) {
             var xhr = cc.loader.getXMLHttpRequest();
@@ -34,6 +35,7 @@ var HTTP = cc.Class({
                     }
                 }
             };
+            // noinspection JSAnnotator
             let token = "" ;
             if(cc.beimi!=null && cc.beimi.authorization != null){
                 token = cc.beimi.authorization ;

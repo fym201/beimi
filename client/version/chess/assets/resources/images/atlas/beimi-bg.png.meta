@@ -1,12 +1,16 @@
 {
-  "ver": "1.0.0",
+  "ver": "2.3.3",
   "uuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
   "subMetas": {
     "beimi-bg": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fab6f388-747a-4656-9473-9310b4a8005b",
       "rawTextureUuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
       "trimType": "auto",

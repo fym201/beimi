@@ -9,7 +9,7 @@
   "type": "Texture Packer",
   "subMetas": {
     "base.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5ec4e92a-74e6-4edb-ae9d-61b1e6fa3913",
       "rawTextureUuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
       "trimType": "auto",
@@ -31,7 +31,7 @@
       "subMetas": {}
     },
     "base1.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "aed64378-e88b-42f5-bc52-a7c742b36896",
       "rawTextureUuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
       "trimType": "auto",
@@ -53,7 +53,7 @@
       "subMetas": {}
     },
     "base2.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7b79e00a-e2e1-4f4c-90c7-85f0b3622d8c",
       "rawTextureUuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
       "trimType": "auto",
@@ -75,7 +75,7 @@
       "subMetas": {}
     },
     "base3.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a15025b2-9afe-47a3-934e-90f90a396d16",
       "rawTextureUuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
       "trimType": "auto",
@@ -97,7 +97,7 @@
       "subMetas": {}
     },
     "base4.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "579e5275-9ccb-43e7-b78f-8010d633ef25",
       "rawTextureUuid": "560a5b29-7d76-498b-b925-100e0a0ebd12",
       "trimType": "auto",

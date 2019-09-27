@@ -30,6 +30,7 @@ cc.Class({
         return check ;
     },
     connect:function(){
+        // noinspection JSAnnotator
         let self = this ;
         /**
          * 登录成功后，创建 Socket链接，
